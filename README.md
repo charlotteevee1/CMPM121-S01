@@ -3,3 +3,5 @@
 When the button is clicked, the counter increases.
 
 The added code increases the counter variable by 1 every time the button is clicked. Then, the counter variable, which holds a number, is converted to a string and this string replaces the current string value displayed by counterElement.
+
+I changed my account username to a pseudonym during this assignment, and it looks like some of the commits reflect the old name.
